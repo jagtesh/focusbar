@@ -1,0 +1,7 @@
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\bin\Debug\ShellBasics.dll
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\bin\Debug\ShellBasics.pdb
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\obj\Debug\ShellLib.csprojResolveAssemblyReference.cache
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\obj\Debug\ShellLib.ApplicationDesktopToolbar.resources
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\obj\Debug\ShellLib.csproj.GenerateResource.Cache
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\obj\Debug\ShellBasics.dll
+C:\Users\Jagtesh\Desktop\ShellBasics\ShellBasics\obj\Debug\ShellBasics.pdb

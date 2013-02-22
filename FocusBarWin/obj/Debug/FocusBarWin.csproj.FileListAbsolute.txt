@@ -1,0 +1,11 @@
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\bin\Debug\FocusBarWin.exe.config
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\bin\Debug\FocusBarWin.exe
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\bin\Debug\FocusBarWin.pdb
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\obj\Debug\FocusBarWin.csprojResolveAssemblyReference.cache
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\obj\Debug\FocusBarWin.Properties.Resources.resources
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\obj\Debug\FocusBarWin.csproj.GenerateResource.Cache
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\obj\Debug\FocusBarWin.exe
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\obj\Debug\FocusBarWin.pdb
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\obj\Debug\FocusBarWin.Form1.resources
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\bin\Debug\ShellBasics.dll
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\FocusBarWin\bin\Debug\ShellBasics.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\ShellBasics\bin\Release\ShellBasics.dll
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\ShellBasics\obj\Release\ShellLib.csprojResolveAssemblyReference.cache
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\ShellBasics\obj\Release\ShellLib.ApplicationDesktopToolbar.resources
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\ShellBasics\obj\Release\ShellLib.csproj.GenerateResource.Cache
+C:\Users\Jagtesh\Documents\Visual Studio 2012\Projects\FocusBarWin\ShellBasics\obj\Release\ShellBasics.dll
