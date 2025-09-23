@@ -2,6 +2,7 @@
 bin/
 obj/
 publish/
+test-publish/
 
 # Visual Studio / VS Code
 .vs/
