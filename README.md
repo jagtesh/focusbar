@@ -51,6 +51,11 @@ Will use WPF backend when Eto.Platform.Wpf package is installed.
 ### macOS
 Will use Cocoa backend when Eto.Platform.Mac64 package is installed.
 
-## Original Project
+## Original Legacy Project
 
-The original Windows-only version can be found in the `FocusBarWin` and `ShellBasics` directories. This used Windows Shell APIs for desktop toolbar functionality.
+The original Windows-only version can be found in the `FocusBar.Old/` directory:
+- `FocusBar.Old/FocusBarWin/` - Legacy WinForms application 
+- `FocusBar.Old/ShellBasics/` - Legacy Windows Shell integration library
+- `FocusBar.Old/FocusBarWin.sln` - Legacy Visual Studio solution
+
+This legacy code used Windows Shell APIs for desktop toolbar functionality and was limited to Windows only.
