@@ -1,0 +1,31 @@
+# Build outputs
+bin/
+obj/
+publish/
+test-publish/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Old project artifacts
+FocusBarWin/bin/
+FocusBarWin/obj/
+ShellBasics/bin/
+ShellBasics/obj/
+*.suo
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+
+# NuGet packages
+packages/
